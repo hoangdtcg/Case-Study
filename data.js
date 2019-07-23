@@ -1,3 +1,15 @@
+//C0419H1 - PHP - Module 1
+let c0619k1 = '{"games":[' +
+    '{"name":"The new Sky Force","icon":"huytran.png","link":"sky-force","author":"Huy Tran" },' +
+    '{"name":"Racing with Duck","icon":"hailuong.jpg","link":"duaxebanvit","author":"Luong Manh Hai"},' +
+    '{"name":"Dot Jumping","icon":"tungson.png","link":"jumpingandevade","author":"Tung Son"},' +
+    '{"name":"Boy vs Shit","icon":"damduc.png","link":"jumpovershit","author":"Dam Quang Duc" },'+
+    '{"name":"Battle City","icon":"hieunguyen.jpg","link":"battle-city","author":"Hieu Nguyen" },'+
+    '{"name":"Mario","icon":"hainguyen.png","link":"nguyensonhai-c0619k1-castudy","author":"Hai Nguyen" },'+
+    '{"name":"Tank Battle","icon":"kienphamtank.jpg","link":"world-of-tanks","author":"Kien Pham" },'+
+    '{"name":"Pokemon","icon":"kienphampokemon.jpg","link":"pokemon-chaper-1","author":"Kien Pham" },'+
+    '{"name":"Brick Ball","icon":"default.png","link":"gameballsimple","author":"Xoan Nguyen" }]}';
+
 //C0419G1 - Java - Module 1
 let c0419g1 = '{"games":[' +
     '{"name":"Save The World","icon":"savetheworld.png","link":"casestudy-savetheworld-elnino228","author":"Đào Văn Đạt" },' +

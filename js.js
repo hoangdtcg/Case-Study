@@ -4,7 +4,7 @@ function Game(name,icon,link,author) {
     this.link = link;
     this.author = author;
     this.getHtml = function(){
-        let _img = "<img src=images/"+this.icon+" alt="+this.name+">";
+        let _img = "<div id='khung'><img src=images/"+this.icon+" alt="+this.name+"></div>";
         let _name = "<div class='name name-container'>"+this.name+"</div>"
         let _play = "<div class='btn-highlight btn-block'>Try it</div>"
         let _link = "https://"+this.link+".netlify.com/";
@@ -15,7 +15,7 @@ function Game(name,icon,link,author) {
 
 function GameBoard(){
     CreateList();
-    getData(c0419g1);
+    getData(c0619k1);
 }
 let listgame = document.createElement("ul");
 function CreateList(){

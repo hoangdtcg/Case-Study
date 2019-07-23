@@ -2619,3 +2619,7 @@ h2#banner-title {
     padding: 15px 0px;
     text-decoration: underline;
 }
+div#khung {
+    width: 150px;
+    height: 150px;
+}
