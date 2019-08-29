@@ -15,7 +15,7 @@ function Game(name,icon,link,author) {
 
 function GameBoard(){
     CreateList();
-    getData(c0619k1);
+    getData(c0719k1);
 }
 let listgame = document.createElement("ul");
 function CreateList(){
