@@ -4,11 +4,11 @@ let c0719k1 = '{"games":[' +
     '{"name":"Racing with Duck","icon":"default.png","link":"cranky-turing-9f2a16","author":"Luong Manh Hai"},' +
     '{"name":"Dot Jumping","icon":"default.png","link":"brave-babbage-1fed6c","author":"Tung Son"},' +
     '{"name":"Boy vs Shit","icon":"default.png","link":"stupefied-engelbart-2e97d3","author":"Dam Quang Duc" },'+
-    '{"name":"Battle City","icon":"default.png","link":"cuongnguyenvn","author":"Hieu Nguyen" },'+
+    '{"name":"Ai la trieu phu","icon":"default.png","link":"cuongnguyenvn","author":"Hieu Nguyen" },'+
     '{"name":"Mario","icon":"default.png","link":"quizzical-booth-1ab755","author":"Hai Nguyen" },'+
     '{"name":"Tank Battle","icon":"default.png","link":"gracious-shockley-526c00","author":"Kien Pham" },'+
     '{"name":"Pokemon","icon":"default.png","link":"frosty-kepler-b5a3f7","author":"Kien Pham" },'+
-    '{"name":"Brick Ball","icon":"default.png","link":"eager-mcclintock-1dab98","author":"Xoan Nguyen" }]}';
+    '{"name":"Quan Ly San Pham","icon":"default.png","link":"quanlysanpham","author":"Xoan Nguyen" }]}';
 //C0419H1 - PHP - Module 1
 let c0619k1 = '{"games":[' +
     '{"name":"The new Sky Force","icon":"huytran.png","link":"sky-force","author":"Huy Tran" },' +
