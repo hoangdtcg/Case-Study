@@ -1,4 +1,9 @@
-//C0719K1 - PHP - Module 1
+//c0722g1 - PHP - Module 1
+let c0722g1 = '{"games":[' +
+    '{"name":"Ruins Of The Past","icon":"ruins.png","link":"ruins-of-the-past","author":"Quân Nguyễn" },' +
+    '{"name":"Galaxy Protector","icon":"galaxy-protect.png","link":"galaxy-protector","author":"Quân Nguyễn"},' +
+    '{"name":"Jump Man","icon":"jump-man.png","link":"jump-man","author":"Quân Nguyễn" }]}';
+
 let c0719k1 = '{"games":[' +
     '{"name":"The new Sky Force","icon":"default.png","link":"determined-lumiere-f8fa16","author":"Huy Tran" },' +
     '{"name":"Racing with Duck","icon":"default.png","link":"cranky-turing-9f2a16","author":"Luong Manh Hai"},' +
