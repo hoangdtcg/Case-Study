@@ -4,7 +4,7 @@ function Game(name,icon,link,author) {
     this.link = link;
     this.author = author;
     this.getHtml = function(){
-        let _img = "<div id='khung'><img style='border-radius: 10px' src=images/"+this.icon+" alt="+this.name+"></div>";
+        let _img = "<div id='khung'><img style='border-radius: 20px' src=images/"+this.icon+" alt="+this.name+"></div>";
         let _name = "<div class='name name-container'>"+this.name+"</div>"
         let _play = "<div class='btn-highlight btn-block'>Try it</div>"
         let _link = "https://"+this.link+".netlify.com/";
